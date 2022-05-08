@@ -1,4 +1,3 @@
-Error, couldn´t find city for router with id: 2715155
 Error, couldn´t find city for router with id: 2715126
 Error, couldn´t find city for router with id: 2715134
 Error, couldn´t find city for router with id: 2715145

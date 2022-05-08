@@ -72,6 +72,5 @@ def log_file_error(error):
 
 
 get_routers()
-# get_state_and_city()
 
 
