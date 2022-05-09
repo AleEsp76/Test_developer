@@ -1,42 +1,21 @@
-account,description,id,ipv4_address,state,zip,city,state_location
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2041 Life ave TX, 75212",2715123,167.91.0.199,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3030 N Hampton apt 9102 TX, 75212(MM Repair Top Off)",2715125,167.91.0.83,online,75212(MM Repair Top Off),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1939 Pueblo St TX, 75212 (WAN verify enabled)",2715126,167.91.0.225,online,75212 (WAN verify enabled),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1915 MCBroom St TX, 75212",2715127,167.91.0.225,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2023 Pueblo St TX, 75212",2715130,167.91.0.198,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1511 Dennison St TX, 75212",2715131,167.91.0.199,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3440 Lake Hollow dr TX, 75212",2715132,167.91.0.197,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers St Apt 324 TX, 75212",2715133,167.91.0.225,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3428 Lake Hollow Dr TX, 75212 (MM Repair Top Off)",2715134,167.91.0.83,online,75212 (MM Repair Top Off),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3302 Lake Hollow Dr Dallas TX, 75212(MM Repair Top Off)",2715136,167.91.0.226,online,75212(MM Repair Top Off),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2005 Dennison St TX, 75212",2715137,167.91.0.82,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1843 Toronto St TX, 75212",2715140,167.91.0.81,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers apt 394 TX, 75212",2715141,167.91.0.227,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1836 McBroom st Dallas TX, 75212",2715142,167.91.0.198,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3432 Lakehollow Dr TX, 75212(MM Repair Top Off)",2715145,167.91.0.198,online,75212(MM Repair Top Off),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2006 Shaw St TX, 75212",2715146,167.91.0.83,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"3131 Kingbridge St apt 234 TX, 75212",2715147,167.91.0.197,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers st apt 13 TX, 75212",2715148,167.91.0.225,online,75212,Dallas,TX
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1947 Toronto St TX, 75212(MM Repair Top Off)",2715149,167.91.0.82,online,75212(MM Repair Top Off),,
-
-https://www.cradlepointecm.com/api/v2/accounts/92725/,"1955 Morris  St TX, 75212",2715150,167.91.0.199,online,75212,Dallas,TX
-
+account,description,id,ipv4_address,state,zip
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2041 Life ave TX, 75212",2715123,167.91.0.199,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3030 N Hampton apt 9102 TX, 75212(MM Repair Top Off)",2715125,167.91.0.83,online,75212(MM Repair Top Off)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1939 Pueblo St TX, 75212 (WAN verify enabled)",2715126,167.91.0.225,online,75212 (WAN verify enabled)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1915 MCBroom St TX, 75212",2715127,167.91.0.225,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2023 Pueblo St TX, 75212",2715130,167.91.0.198,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1511 Dennison St TX, 75212",2715131,167.91.0.199,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3440 Lake Hollow dr TX, 75212",2715132,167.91.0.197,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers St Apt 324 TX, 75212",2715133,167.91.0.225,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3428 Lake Hollow Dr TX, 75212 (MM Repair Top Off)",2715134,167.91.0.83,online,75212 (MM Repair Top Off)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3302 Lake Hollow Dr Dallas TX, 75212(MM Repair Top Off)",2715136,167.91.0.225,online,75212(MM Repair Top Off)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2005 Dennison St TX, 75212",2715137,167.91.0.82,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1843 Toronto St TX, 75212",2715140,167.91.0.81,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers apt 394 TX, 75212",2715141,167.91.0.227,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1836 McBroom st Dallas TX, 75212",2715142,167.91.0.198,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3432 Lakehollow Dr TX, 75212(MM Repair Top Off)",2715145,167.91.0.198,online,75212(MM Repair Top Off)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2006 Shaw St TX, 75212",2715146,167.91.0.83,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"3131 Kingbridge St apt 234 TX, 75212",2715147,167.91.0.197,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"2425 Bickers st apt 13 TX, 75212",2715148,167.91.0.225,online,75212
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1947 Toronto St TX, 75212(MM Repair Top Off)",2715149,167.91.0.82,online,75212(MM Repair Top Off)
+https://www.cradlepointecm.com/api/v2/accounts/92725/,"1955 Morris  St TX, 75212",2715150,167.91.0.199,online,75212

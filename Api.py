@@ -1,10 +1,7 @@
 #Libraries and packages that are used within the script
-from cmath import e
 import csv
 import json
-from logging import raiseExceptions
 import pandas as pd
-from operator import index
 import requests
 
 #URL used to fetch information from the API
@@ -23,7 +20,6 @@ routers = []
 
 #Function used to obtain information from routers
 def get_routers():
-    Exceptions = []
     req = requests.get(url, headers=headers)
     response = req.json()
     routers_response = response["data"]

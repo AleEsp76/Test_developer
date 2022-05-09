@@ -6,11 +6,11 @@ Year: 2022
 
 ## Program Requirements:
 
--Python 3.7: For the installation of python we will enter the official python download page https://www.python.org/downloads/windows//
+-Python 3.7: For the installation of python we will enter the official python download pcdage https://www.python.org/downloads/windows//
 
 -Have pip installed.
 
--Run the commmand "make install_requirements" in the terminal, this is to install all the necessary dependencies. 
+-Run the commmand "make install_requirements" in the terminal, this is to install all cdthe necessary dependencies. 
 
 ## Manual de Uso
 
